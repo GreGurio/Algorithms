@@ -1,0 +1,63 @@
+
+8:39:4	- [SESSION STARTED]
+8:39:56	- - [INPUT] - /help
+8:40:0	- - [INPUT] - /solve matrix
+8:40:7	- - [INPUT] - 1 2 4 5 6 2 6 4 1
+8:40:15	- - [INPUT] - 1 6 4 2 5 3 1 6 3 1 5 7
+8:40:25	- - [INPUT] - 2 4 6 7 1 5 8 9 5 4 1 7 9 6 4 2
+8:40:53	- - [INPUT] - 3 5 7 3 7 3 1 7 4 1 5 1 7 4 2 6 2 9 6 4 23 45 86 34 12
+8:41:8	- - [INPUT] - /help
+8:41:11	- - [INPUT] - /exit
+8:41:16	- - [INPUT] - /solve slar
+8:41:41	- - [INPUT] - 3 6 4 1 5 1 4 5 8 6 4 2 4 6 8 6 5 4 1 4 6 5 4 3 2 1 3 9 4 1
+8:41:46	- - [INPUT] - /exit
+8:41:48	- - [INPUT] - /exit
+8:41:48	- [SESSION FINISHED]
+10:55:48	- [SESSION STARTED]
+10:55:55	- - [INPUT] - /solve matrix
+10:56:1	- - [INPUT] - 1 4 6 4 2 4 7 5 
+10:56:6	- - [INPUT] - 3 5 7 5 4 2 5 6 4
+11:12:56	- [SESSION STARTED]
+11:13:0	- - [INPUT] - /solve matrix
+11:13:7	- - [INPUT] - 1 3 5 7 5 4 6 4 2
+11:14:12	- - [INPUT] - /exit
+11:14:18	- - [INPUT] - /exit
+11:14:18	- [SESSION FINISHED]
+11:17:12	- [SESSION STARTED]
+11:17:17	- - [INPUT] - /solve matrix
+11:17:24	- - [INPUT] - 1 3 5 4 3 1 6 4 1
+11:17:28	- - [INPUT] - /help
+11:19:1	- [SESSION STARTED]
+11:19:4	- - [INPUT] - /solve matrix
+11:19:8	- - [INPUT] - 1 3 6 4 2 6 1 4 6
+11:19:12	- - [INPUT] - /help
+11:19:15	- - [INPUT] - /exit
+11:19:17	- - [INPUT] - /help
+11:21:9	- [SESSION STARTED]
+11:21:11	- - [INPUT] - /help
+11:21:15	- - [INPUT] - /solve matrix
+11:21:18	- - [INPUT] - /help
+11:21:23	- - [INPUT] - 1 2 3 4 5 6 7 8 9
+11:21:27	- - [INPUT] - /exit
+11:21:31	- - [INPUT] - /solve sla
+11:21:33	- - [INPUT] - /solve slar
+11:21:36	- - [INPUT] - /help
+11:22:4	- [SESSION STARTED]
+11:22:8	- - [INPUT] - /solve slar
+11:22:15	- - [INPUT] - 1 4 7 5 2 8 5 2 6 9 4 2
+11:22:18	- - [INPUT] - /help
+11:26:15	- [SESSION STARTED]
+11:26:19	- - [INPUT] - /solve matrix
+11:26:26	- - [INPUT] - 2 5 7 5 3 1 6 4 1
+11:32:21	- [SESSION STARTED]
+11:32:26	- - [INPUT] - /solve matrix
+11:32:30	- - [INPUT] - 1 3 5 2 6 8 4 1 6
+11:49:27	- [SESSION STARTED]
+11:49:31	- - [INPUT] - /solve matrix
+11:49:35	- - [INPUT] - 2 5 8 5 2 7 1 5 8
+11:49:39	- - [INPUT] - /exit
+11:49:45	- - [INPUT] - /solve slar
+11:49:53	- - [INPUT] - 1 8 4 1 8 2 8 4 2 5 2 4
+0:45:22	- [SESSION STARTED]
+0:45:25	- - [INPUT] - /solve matrix
+0:45:30	- - [INPUT] - 1 6 4 2 7 9 4 6 2
